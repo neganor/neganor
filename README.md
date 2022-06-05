@@ -1,4 +1,4 @@
-### Hi there 👋
+## Social Media
 [![Spotify](https://akif9748.me/badges/spotify.svg)](https://open.spotify.com/user/jouldo2g3acfdnudtzvuz8tid?si=ddbe2bcae3124c4c)
 
 
