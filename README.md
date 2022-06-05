@@ -1,6 +1,6 @@
 ## Social Media
 [![Spotify](https://akif9748.me/badges/spotify.svg)](https://open.spotify.com/user/jouldo2g3acfdnudtzvuz8tid?si=ddbe2bcae3124c4c)
-
+[![Discord](https://akif9748.me/badges/discord.svg)](https://discord.com/users/416869916503703572)
 
 ## Languages I Know
 * ![Python](https://akif9748.me/badges/python.svg)
